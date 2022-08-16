@@ -10,4 +10,8 @@ syso();
 public void  b() {
 	
 }
+
+public void c() {
+	syso();
+}
 }
